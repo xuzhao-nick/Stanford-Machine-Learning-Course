@@ -218,7 +218,7 @@
     hold on;
     plot(theta(1), theta(2), 'rx', 'MarkerSize', 10, 'LineWidth', 2);
 
-<img src = 'images/plot4.png'>
+<img src = 'ex1/images/plot4.png'>
 
 
     
