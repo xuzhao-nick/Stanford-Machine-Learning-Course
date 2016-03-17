@@ -33,7 +33,7 @@
 
 
 
-    [H[2J
+
 
 
 
@@ -50,18 +50,31 @@
 
 
     Running warmUpExercise ... 
+
     5x5 Identity Matrix: 
+
     ans =
+
     
+
     Diagonal Matrix
+
     
+
        1   0   0   0   0
+
        0   1   0   0   0
+
        0   0   1   0   0
+
        0   0   0   1   0
+
        0   0   0   0   1
+
     
+
     Program paused. Press enter to continue.
+
 
 
 
@@ -83,12 +96,14 @@
 
 
     Plotting Data ...
+
     Program paused. Press enter to continue.
 
 
 
 
-<img src = 'images/plot1.png'>
+
+<img src = 'ex1/images/plot1.png'>
 
 
     %% =================== Part 3: Gradient descent ===================
@@ -129,20 +144,30 @@
 
 
     Running Gradient Descent ...
+
     ans =  32.073
+
     theta =
+
     
+
       -3.6303
+
        1.1664
+
     
+
     Theta found by gradient descent: -3.630291 1.166362 
+
     For population = 35,000, we predict a profit of 4519.767868
+
     For population = 70,000, we predict a profit of 45342.450129
 
 
 
 
-<img src = 'images/plot2.png'>
+
+<img src = 'ex1/images/plot2.png'>
 
 
     %% ============= Part 4: Visualizing J(theta_0, theta_1) =============
@@ -181,7 +206,8 @@
 
 
 
-<img src = 'images/plot3.png'>
+
+<img src = 'ex1/images/plot3.png'>
 
 
     % Contour plot
