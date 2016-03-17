@@ -5,7 +5,7 @@ The homework of Machine Learning Course from Stanford University(Coursera)
 
 This exercise will implement linear regression and get to see it work on data.
 
-<img src="ex1/images/plot1.png">
+<img src="machine-learning-ex1/ex1/images/plot1.png">
 
 
 	
